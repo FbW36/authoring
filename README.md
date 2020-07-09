@@ -2,11 +2,11 @@
 
 ## Tasks
 
-- [ ] [external link](README.md#external-link)
-- [ ] [internal link](README.md#internal-link)
-- [ ] [images](README.md#images)
-- [ ] [emojis](README.md#emojis)
-- [ ] [tables](README.md#tables)
+- [x] [external link](README.md#external-link)
+- [x] [internal link](README.md#internal-link)
+- [x] [images](README.md#images)
+- [x] [emojis](README.md#emojis)
+- [x] [tables](README.md#tables)
 
 ## External link
 
