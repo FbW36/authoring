@@ -3,10 +3,10 @@
 ## Tasks
 
 - [ ] [external link](README.md#external-link)
-- [ ] internal link
-- [ ] images
-- [ ] emojis
-- [ ] tables
+- [ ] [internal link](README.md#internal-link)
+- [ ] [images](README.md#images)
+- [ ] [emojis](README.md#emojis)
+- [ ] [tables](README.md#tables)
 
 ## External link
 
